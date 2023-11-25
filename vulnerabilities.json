@@ -128441,8 +128441,23 @@
 	},
 	{
 		"package": "gimp<2.10.36",
-		"type_of_exploit": "unknown-impact",
-		"url": "https://www.gimp.org/news/2023/11/07/gimp-2-10-36-released/#security-and-bug-fixes"
+		"type_of_exploit": "remote-code-execution",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-44441"
+	},
+	{
+		"package": "qimp<2.10.36",
+		"type_of_exploit": "remote-code-execution",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-44442"
+	},
+	{
+		"package": "gimp<2.10.36",
+		"type_of_exploit": "remote-code-execution",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-44443"
+	},
+	{
+		"package": "gimp<2.10.36",
+		"type_of_exploit": "remote-code-execution",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-44444"
 	},
 	{
 		"package": "tor<0.4.8.8",
@@ -128548,5 +128563,15 @@
 		"package": "vim<9.0.2112",
 		"type_of_exploit": "integer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-48237"
+	},
+	{
+		"package": "gnutls<3.8.2",
+		"type_of_exploit": "timing-side-channel",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-5981"
+	},
+	{
+		"package": "vim<9.0.2121",
+		"type_of_exploit": "use-after-free",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-48706"
 	}
 ]

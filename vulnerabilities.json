@@ -128573,5 +128573,60 @@
 		"package": "vim<9.0.2121",
 		"type_of_exploit": "use-after-free",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-48706"
+	},
+	{
+		"package": "samba4>=4.0<4.19.3",
+		"type_of_exploit": "information-leak",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-14628"
+	},
+	{
+		"package": "py{27,38,39,310,311,312}-cryptography>=3.1<41.0.6",
+		"type_of_exploit": "NULL-dereference",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49083"
+	},
+	{
+		"package": "perl>=5.30.0<5.38.1",
+		"type_of_exploit": "buffer-overflow",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-47038"
+	},
+	{
+		"package": "webkit-gtk<2.42.3",
+		"type_of_exploit": "disclose-sensitive-information",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-42916"
+	},
+	{
+		"package": "webkit-gtk<2.42.3",
+		"type_of_exploit": "arbitrary-code-execution",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-42917"
+	},
+	{
+		"package": "go120<1.20.12",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-39326"
+	},
+	{
+		"package": "go121<1.21.5",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-39326"
+	},
+	{
+		"package": "go120<1.20.12",
+		"type_of_exploit": "insecure-fallback",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-45285"
+	},
+	{
+		"package": "go121<1.21.5",
+		"type_of_exploit": "insecure-fallback",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-45285"
+	},
+	{
+		"package": "curl>=7.46.0<8.5.0",
+		"type_of_exploit": "information-exposure-through-sent-data",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-46218"
+	},
+	{
+		"package": "curl>=7.84.0<8.5.0",
+		"type_of_exploit": "missing-encryption-of-sensitive-data",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-46219"
 	}
 ]

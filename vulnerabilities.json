@@ -128638,5 +128638,15 @@
 		"package": "fish<3.6.2",
 		"type_of_exploit": "information-disclosure",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49284"
+	},
+	{
+		"package": "modular-xorg-server<21.1.10",
+		"type_of_exploit": "out-of-bounds-write",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-CVE-2023-6377"
+	},
+	{
+		"package": "modular-xorg-server<21.1.10",
+		"type_of_exploit": "information-disclosure",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-CVE-2023-6478"
 	}
 ]

@@ -128648,5 +128648,10 @@
 		"package": "modular-xorg-server<21.1.10",
 		"type_of_exploit": "information-disclosure",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-CVE-2023-6478"
+	},
+	{
+		"package": "opensc>=0.17.0<0.24.0",
+		"type_of_exploit": "potential-pin-bypass",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-40660"
 	}
 ]

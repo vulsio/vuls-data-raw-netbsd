@@ -128653,5 +128653,30 @@
 		"package": "opensc>=0.17.0<0.24.0",
 		"type_of_exploit": "potential-pin-bypass",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-40660"
+	},
+	{
+		"package": "asterisk<18.20.1",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49786"
+	},
+	{
+		"package": "asterisk>=20<20.5.1",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49786"
+	},
+	{
+		"package": "asterisk>=21<21.0.1",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49786"
+	},
+	{
+		"package": "asterisk<18",
+		"type_of_exploit": "eol",
+		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
+	},
+	{
+		"package": "asterisk>=19<20",
+		"type_of_exploit": "eol",
+		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
 	}
 ]

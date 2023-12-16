@@ -128678,5 +128678,15 @@
 		"package": "asterisk>=19<20",
 		"type_of_exploit": "eol",
 		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
+	},
+	{
+		"package": "jq<1.7.1",
+		"type_of_exploit": "buffer-overflow",
+		"url": "http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50246"
+	},
+	{
+		"package": "jq<1.7.1",
+		"type_of_exploit": "buffer-overflow",
+		"url": "http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50268"
 	}
 ]

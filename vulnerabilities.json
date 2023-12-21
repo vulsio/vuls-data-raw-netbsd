@@ -128733,5 +128733,25 @@
 		"package": "py{38,39,310,311,321}-paramiko<3.4.0",
 		"type_of_exploit": "session-attack",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-46446"
+	},
+	{
+		"package": "proftpd<1.3.8b",
+		"type_of_exploit": "extension-negotiation-downgrade",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-48795"
+	},
+	{
+		"package": "dropbear<2022.83nb1",
+		"type_of_exploit": "extension-negotiation-downgrade",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-48795"
+	},
+	{
+		"package": "erlang<26.2.1",
+		"type_of_exploit": "extension-negotiation-downgrade",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-48795"
+	},
+	{
+		"package": "libssh2<1.11.0nb2",
+		"type_of_exploit": "extension-negotiation-downgrade",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-48795"
 	}
 ]

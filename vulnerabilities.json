@@ -128753,5 +128753,10 @@
 		"package": "libssh2<1.11.0nb2",
 		"type_of_exploit": "extension-negotiation-downgrade",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-48795"
+	},
+	{
+		"package": "postfix<3.8.4",
+		"type_of_exploit": "email-spoofing",
+		"url": "https://www.postfix.org/smtp-smuggling.html"
 	}
 ]

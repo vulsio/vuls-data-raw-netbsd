@@ -128803,5 +128803,80 @@
 		"package": "sendmail-[0-9]*",
 		"type_of_exploit": "email-spoofing",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-CVE-2023-51765"
+	},
+	{
+		"package": "packer<1.9.5",
+		"type_of_exploit": "man-in-the-middle",
+		"url": "https://pkg.go.dev/vuln/GO-2023-2402"
+	},
+	{
+		"package": "ssh-chat-[0-9]*",
+		"type_of_exploit": "man-in-the-middle",
+		"url": "https://pkg.go.dev/vuln/GO-2023-2402"
+	},
+	{
+		"package": "influxdb-[0-9]*",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://pkg.go.dev/vuln/GO-2023-1571"
+	},
+	{
+		"package": "lazygit-[0-9]*",
+		"type_of_exploit": "man-in-the-middle",
+		"url": "https://pkg.go.dev/vuln/GO-2023-2402"
+	},
+	{
+		"package": "amfora-[0-9]*",
+		"type_of_exploit": "infinite-loop",
+		"url": "https://pkg.go.dev/vuln/GO-2021-0238"
+	},
+	{
+		"package": "hub-[0-9]*",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://pkg.go.dev/vuln/GO-2021-0061"
+	},
+	{
+		"package": "nats-server-[0-9]*",
+		"type_of_exploit": "permissions-checking",
+		"url": "https://pkg.go.dev/vuln/GO-2022-0386"
+	},
+	{
+		"package": "obfs4proxy-[0-9]*",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://pkg.go.dev/vuln/GO-2023-1571"
+	},
+	{
+		"package": "terraform-provider-aws-[0-9]*",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://pkg.go.dev/vuln/GO-2023-2153"
+	},
+	{
+		"package": "terraform-provider-aws-[0-9]*",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://pkg.go.dev/vuln/GO-2023-1571"
+	},
+	{
+		"package": "authelia-[0-9]*",
+		"type_of_exploit": "path-traversal",
+		"url": "https://pkg.go.dev/vuln/GO-2022-0355"
+	},
+	{
+		"package": "authelia-[0-9]*",
+		"type_of_exploit": "out-of-bounds-read",
+		"url": "https://pkg.go.dev/vuln/GO-2021-0113"
+	},
+	{
+		"package": "apisprout-[0-9]*",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://pkg.go.dev/vuln/GO-2021-0061"
+	},
+	{
+		"package": "gitea-[0-9]*",
+		"type_of_exploit": "man-in-the-middle",
+		"url": "https://pkg.go.dev/vuln/GO-2023-2402"
+	},
+	{
+		"package": "gitea-[0-9]*",
+		"type_of_exploit": "improper-rendering",
+		"url": "https://pkg.go.dev/vuln/GO-2023-1988"
 	}
 ]

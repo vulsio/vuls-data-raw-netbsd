@@ -128898,5 +128898,15 @@
 		"package": "filezilla<3.66.4",
 		"type_of_exploit": "extension-negotiation-downgrade",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-48795"
+	},
+	{
+		"package": "libheif<1.17.6",
+		"type_of_exploit": "integer-overflow",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49462"
+	},
+	{
+		"package": "libde265<1.0.15",
+		"type_of_exploit": "buffer-overflow",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49468"
 	}
 ]

@@ -128888,5 +128888,15 @@
 		"package": "libssh<0.10.6",
 		"type_of_exploit": "command-injection",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-6004"
+	},
+	{
+		"package": "p5-Spreadsheet-ParseExcel<0.6600",
+		"type_of_exploit": "remote-code-execution",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-7101"
+	},
+	{
+		"package": "filezilla<3.66.4",
+		"type_of_exploit": "extension-negotiation-downgrade",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-48795"
 	}
 ]

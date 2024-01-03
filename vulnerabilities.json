@@ -128908,5 +128908,10 @@
 		"package": "libde265<1.0.15",
 		"type_of_exploit": "buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49468"
+	},
+	{
+		"package": "gst-plugins1-bad<1.22.8",
+		"type_of_exploit": "buffer-overflow",
+		"url": "https://gstreamer.freedesktop.org/security/sa-2023-0011.html"
 	}
 ]

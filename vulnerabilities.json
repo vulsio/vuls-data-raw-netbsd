@@ -128918,5 +128918,10 @@
 		"package": "modular-xorg-server<21.1.11",
 		"type_of_exploit": "heap-buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-CVE-2023-6816"
+	},
+	{
+		"package": "coreutils<9.4",
+		"type_of_exploit": "heap-overflow",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-0684"
 	}
 ]

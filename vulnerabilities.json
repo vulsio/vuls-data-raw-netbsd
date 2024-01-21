@@ -128928,5 +128928,10 @@
 		"package": "gnutls<3.8.3",
 		"type_of_exploit": "timing-side-channel",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0553"
+	},
+	{
+		"package": "py{27,38,39,310,311,312}-Pillow<10.2.0",
+		"type_of_exploit": "arbitrary-code-execution",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-50447"
 	}
 ]

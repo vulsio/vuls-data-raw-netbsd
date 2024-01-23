@@ -128938,5 +128938,10 @@
 		"package": "postgresql-server>=11<12",
 		"type_of_exploit": "eol",
 		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
+	},
+	{
+		"package": "nodejs>=16<18",
+		"type_of_exploit": "eol",
+		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
 	}
 ]

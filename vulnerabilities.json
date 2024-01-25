@@ -128395,7 +128395,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-45802"
 	},
 	{
-		"package": "minizip-[0-9]*",
+		"package": "minizip<1.3.1",
 		"type_of_exploit": "buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-45853"
 	},

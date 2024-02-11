@@ -123685,11 +123685,6 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-4144"
 	},
 	{
-		"package": "png-[0-9]*",
-		"type_of_exploit": "denial-of-service",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-4214"
-	},
-	{
 		"package": "pngcheck<3.0.3",
 		"type_of_exploit": "buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-35511"
@@ -127288,11 +127283,6 @@
 		"package": "optipng-[0-9]*",
 		"type_of_exploit": "buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-43907"
-	},
-	{
-		"package": "png-[0-9]*",
-		"type_of_exploit": "null-pointer-dereference",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-3857"
 	},
 	{
 		"package": "jpegoptim<1.5.3",

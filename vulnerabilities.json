@@ -129025,7 +129025,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-24680"
 	},
 	{
-		"package": "libuv>=1.45<1.48",
+		"package": "libuv>=1.24.0<1.48",
 		"type_of_exploit": "address-check-bypass",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-24806"
 	},
@@ -129053,5 +129053,10 @@
 		"package": "postgresql-server>=16<16.2",
 		"type_of_exploit": "arbitrary-command-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-0985"
+	},
+	{
+		"package": "asterisk-13.*",
+		"type_of_exploit": "eol",
+		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
 	}
 ]

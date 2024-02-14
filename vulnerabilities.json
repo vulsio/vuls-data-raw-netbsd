@@ -129093,5 +129093,40 @@
 		"package": "bind>=9.18<9.18.24",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://kb.isc.org/docs/cve-2023-50868"
+	},
+	{
+		"package": "bind>=9.16<9.16.48",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://kb.isc.org/docs/cve-2023-4408"
+	},
+	{
+		"package": "bind>=9.16<9.16.48",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://kb.isc.org/docs/cve-2023-5517"
+	},
+	{
+		"package": "bind>=9.16<9.16.48",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://kb.isc.org/docs/cve-2023-5679"
+	},
+	{
+		"package": "bind>=9.16<9.16.48",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://kb.isc.org/docs/cve-2023-50387"
+	},
+	{
+		"package": "bind>=9.16<9.16.48",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://kb.isc.org/docs/cve-2023-50868"
+	},
+	{
+		"package": "dnsmasq<2.90",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-50387"
+	},
+	{
+		"package": "dnsmasq<2.90",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-50868"
 	}
 ]

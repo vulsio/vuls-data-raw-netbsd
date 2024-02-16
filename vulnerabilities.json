@@ -129128,5 +129128,20 @@
 		"package": "dnsmasq<2.90",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-50868"
+	},
+	{
+		"package": "powerdns-recursor<4.8.6",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-50387"
+	},
+	{
+		"package": "powerdns-recursor<4.8.6",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-50868"
+	},
+	{
+		"package": "nss<3.98.0",
+		"type_of_exploit": "information-leak",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-5388"
 	}
 ]

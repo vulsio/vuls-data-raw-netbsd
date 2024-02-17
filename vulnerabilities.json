@@ -129143,5 +129143,10 @@
 		"package": "nss<3.98.0",
 		"type_of_exploit": "information-leak",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-5388"
+	},
+	{
+		"package": "py{27,37,38,39,310,311,312}-dns<=2.6",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-29483"
 	}
 ]

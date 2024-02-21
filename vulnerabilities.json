@@ -129145,8 +129145,13 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-5388"
 	},
 	{
-		"package": "py{27,37,38,39,310,311,312}-dns<=2.6",
+		"package": "py{27,37,38,39,310,311,312}-dns<2.6",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-29483"
+	},
+	{
+		"package": "py{27,37,38,39,310,311,312}-cryptography<42.0.4",
+		"type_of_exploit": "null-pointer-dereference",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-26130"
 	}
 ]

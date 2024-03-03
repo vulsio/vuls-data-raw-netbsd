@@ -107405,7 +107405,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-32679"
 	},
 	{
-		"package": "prometheus-[0-9]*",
+		"package": "prometheus<2.50.1",
 		"type_of_exploit": "insufficiently-random-numbers",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3538"
 	},

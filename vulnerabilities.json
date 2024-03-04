@@ -129268,5 +129268,20 @@
 		"package": "opendmarc-[0-9]*",
 		"type_of_exploit": "null-pointer-dereference",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-25768"
+	},
+	{
+		"package": "py{27,37,38,39,310,311,312}-django>=3<3.2.25",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27351"
+	},
+	{
+		"package": "py{27,37,38,39,310,311,312}-django>=4<4.2.11",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27351"
+	},
+	{
+		"package": "py{27,37,38,39,310,311,312}-django>=5<5.0.3",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27351"
 	}
 ]

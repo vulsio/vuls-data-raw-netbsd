@@ -129308,5 +129308,10 @@
 		"package": "py{37,38,39,310,311,312}-fonttools>4.28.2<4.43.0",
 		"type_of_exploit": "xml-external-entity-vulnerability",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-45139"
+	},
+	{
+		"package": "expat<2.6.2",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-28757"
 	}
 ]

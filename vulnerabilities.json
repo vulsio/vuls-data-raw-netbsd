@@ -74180,7 +74180,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-10254"
 	},
 	{
-		"package": "tiff-[0-9]*",
+		"package": "jpeg<9d",
 		"type_of_exploit": "null-pointer-dereference",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-10126"
 	},
@@ -83150,7 +83150,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-6978"
 	},
 	{
-		"package": "openjpeg-[0-9]*",
+		"package": "openjpeg<2.4.0",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-6988"
 	},
@@ -114485,7 +114485,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3638"
 	},
 	{
-		"package": "openjpeg-[0-9]*",
+		"package": "openjpeg<2.5.1",
 		"type_of_exploit": "heap-based-buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3575"
 	},

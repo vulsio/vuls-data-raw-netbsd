@@ -129568,5 +129568,60 @@
 		"package": "p5-HTTP-Body<1.23",
 		"type_of_exploit": "shell-escape",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2013-4407"
+	},
+	{
+		"package": "php>=8.1<8.1.28",
+		"type_of_exploit": "command-injection",
+		"url": "https://github.com/php/php-src/security/advisories/GHSA-pc52-254m-w9w7"
+	},
+	{
+		"package": "php>=8.1.11<8.1.28",
+		"type_of_exploit": "security-bypass",
+		"url": "https://github.com/php/php-src/security/advisories/GHSA-wpj3-hf5j-x4v4"
+	},
+	{
+		"package": "php>=8.1<8.1.28",
+		"type_of_exploit": "authentication-bypass",
+		"url": "https://github.com/php/php-src/security/advisories/GHSA-h746-cjrr-wfmr"
+	},
+	{
+		"package": "php>=8.2<8.2.18",
+		"type_of_exploit": "command-injection",
+		"url": "https://github.com/php/php-src/security/advisories/GHSA-pc52-254m-w9w7"
+	},
+	{
+		"package": "php>=8.2<8.2.18",
+		"type_of_exploit": "security-bypass",
+		"url": "https://github.com/php/php-src/security/advisories/GHSA-wpj3-hf5j-x4v4"
+	},
+	{
+		"package": "php>=8.2<8.2.18",
+		"type_of_exploit": "authentication-bypass",
+		"url": "https://github.com/php/php-src/security/advisories/GHSA-h746-cjrr-wfmr"
+	},
+	{
+		"package": "php>=8.3<8.3.5",
+		"type_of_exploit": "command-injection",
+		"url": "https://github.com/php/php-src/security/advisories/GHSA-pc52-254m-w9w7"
+	},
+	{
+		"package": "php>=8.3<8.3.5",
+		"type_of_exploit": "security-bypass",
+		"url": "https://github.com/php/php-src/security/advisories/GHSA-wpj3-hf5j-x4v4"
+	},
+	{
+		"package": "php>=8.3<8.3.5",
+		"type_of_exploit": "authentication-bypass",
+		"url": "https://github.com/php/php-src/security/advisories/GHSA-h746-cjrr-wfmr"
+	},
+	{
+		"package": "php>=7.4<8.0",
+		"type_of_exploit": "eol",
+		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
+	},
+	{
+		"package": "php>=8.0<8.1",
+		"type_of_exploit": "eol",
+		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
 	}
 ]

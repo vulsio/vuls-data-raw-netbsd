@@ -27717,12 +27717,12 @@
 	{
 		"package": "net6-[0-9]*",
 		"type_of_exploit": "multiple-vulnerabilities",
-		"url": "http://secunia.com/advisories/46605/"
+		"url": "https://www.openwall.com/lists/oss-security/2011/10/30/3"
 	},
 	{
-		"package": "gobby-[0-9]*",
+		"package": "libobby-[0-9]*",
 		"type_of_exploit": "multiple-vulnerabilities",
-		"url": "http://secunia.com/advisories/46698/"
+		"url": "https://www.openwall.com/lists/oss-security/2011/10/30/3"
 	},
 	{
 		"package": "calibre<0.8.25",
@@ -63850,12 +63850,12 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-12459"
 	},
 	{
-		"package": "ledger-[0-9]*",
+		"package": "ledger<3.1.2",
 		"type_of_exploit": "stack-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-12481"
 	},
 	{
-		"package": "ledger-[0-9]*",
+		"package": "ledger<3.1.2",
 		"type_of_exploit": "stack-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-12482"
 	},
@@ -65490,12 +65490,12 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-14158"
 	},
 	{
-		"package": "ledger-[0-9]*",
+		"package": "ledger<3.1.2",
 		"type_of_exploit": "buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-2807"
 	},
 	{
-		"package": "ledger-[0-9]*",
+		"package": "ledger<3.1.2",
 		"type_of_exploit": "use-after-free",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-2808"
 	},
@@ -101855,7 +101855,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-29385"
 	},
 	{
-		"package": "gobby-[0-9]*",
+		"package": "gobby<0.6",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-35450"
 	},

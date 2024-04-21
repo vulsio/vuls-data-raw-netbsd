@@ -27720,7 +27720,7 @@
 		"url": "https://www.openwall.com/lists/oss-security/2011/10/30/3"
 	},
 	{
-		"package": "libobby-[0-9]*",
+		"package": "obby-[0-9]*",
 		"type_of_exploit": "multiple-vulnerabilities",
 		"url": "https://www.openwall.com/lists/oss-security/2011/10/30/3"
 	},

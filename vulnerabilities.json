@@ -108365,11 +108365,6 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-21677"
 	},
 	{
-		"package": "nim-[0-9]*",
-		"type_of_exploit": "arbitrary-file-write",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-23171"
-	},
-	{
 		"package": "perl>=5.32.0<5.34.0nb3",
 		"type_of_exploit": "code-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-36770"

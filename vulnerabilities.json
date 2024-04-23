@@ -111445,11 +111445,6 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-23903"
 	},
 	{
-		"package": "nim-[0-9]*",
-		"type_of_exploit": "server-side-request-forgery",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-41259"
-	},
-	{
 		"package": "belle-sip<5.0.20",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-43611"

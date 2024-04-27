@@ -25670,11 +25670,6 @@
 		"url": "http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-3394"
 	},
 	{
-		"package": "hiawatha-[0-9]*",
-		"type_of_exploit": "multiple-vulnerabilities",
-		"url": "http://www.hiawatha-webserver.org/changelog"
-	},
-	{
 		"package": "patch<2.7",
 		"type_of_exploit": "remote-system-access",
 		"url": "http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-4651"
@@ -125165,17 +125160,17 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48340"
 	},
 	{
-		"package": "emacs-[0-9]*",
+		"package": "emacs<29.1",
 		"type_of_exploit": "arbitrary-code-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48339"
 	},
 	{
-		"package": "emacs-[0-9]*",
+		"package": "emacs<29.1",
 		"type_of_exploit": "arbitrary-code-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48338"
 	},
 	{
-		"package": "emacs-[0-9]*",
+		"package": "emacs<29.1",
 		"type_of_exploit": "shell-command-injection",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48337"
 	},

@@ -65235,7 +65235,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-13735"
 	},
 	{
-		"package": "jasper-[0-9]*",
+		"package": "jasper<2.0.17",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-13745"
 	},

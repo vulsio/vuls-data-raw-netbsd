@@ -102770,7 +102770,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3382"
 	},
 	{
-		"package": "gnome-autoar-[0-9]*",
+		"package": "gnome-autoar<0.3.0",
 		"type_of_exploit": "arbitrary-file-write",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-36241"
 	},
@@ -129638,5 +129638,10 @@
 		"package": "R<4.4.0",
 		"type_of_exploit": "arbirary-code-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27322"
+	},
+	{
+		"package": "py{27,37,38,39,310,311,312}-aiohttp<3.9.4",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-30251"
 	}
 ]

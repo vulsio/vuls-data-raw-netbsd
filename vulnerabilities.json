@@ -114180,7 +114180,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0545"
 	},
 	{
-		"package": "blender-[0-9]*",
+		"package": "blender<3.1.0",
 		"type_of_exploit": "out-of-bounds-read",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0546"
 	},
@@ -121060,17 +121060,17 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-45332"
 	},
 	{
-		"package": "blender-[0-9]*",
+		"package": "blender<3.3.0",
 		"type_of_exploit": "infinite-loop",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-2833"
 	},
 	{
-		"package": "blender-[0-9]*",
+		"package": "blender<3.3.0",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-2832"
 	},
 	{
-		"package": "blender-[0-9]*",
+		"package": "blender<3.3.0",
 		"type_of_exploit": "out-of-bounds-read",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-2831"
 	},
@@ -129643,5 +129643,10 @@
 		"package": "py{27,37,38,39,310,311,312}-aiohttp<3.9.4",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-30251"
+	},
+	{
+		"package": "p5-Email-MIME<1.954",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4140"
 	}
 ]

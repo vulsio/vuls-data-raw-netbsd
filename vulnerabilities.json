@@ -129648,5 +129648,15 @@
 		"package": "p5-Email-MIME<1.954",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4140"
+	},
+	{
+		"package": "uriparser<0.9.8",
+		"type_of_exploit": "integer-overflow",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-34402"
+	},
+	{
+		"package": "uriparser<0.9.8",
+		"type_of_exploit": "integer-overflow",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-34403"
 	}
 ]

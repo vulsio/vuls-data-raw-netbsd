@@ -129683,5 +129683,10 @@
 		"package": "go122<1.22.3",
 		"type_of_exploit": "arbitrary-code-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-24787"
+	},
+	{
+		"package": "vim<9.1.0404",
+		"type_of_exploit": "buffer-overflow",
+		"url": "https://github.com/vim/vim/commit/67797191e039196128c69"
 	}
 ]

@@ -85270,7 +85270,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-9956"
 	},
 	{
-		"package": "gitea-[0-9]*",
+		"package": "gitea<1.16.0",
 		"type_of_exploit": "server-side-request-forgery",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-15192"
 	},
@@ -95530,7 +95530,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2163"
 	},
 	{
-		"package": "gst-rtsp-server-[0-9]*",
+		"package": "gst-rtsp-server<1.17.1",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-6095"
 	},
@@ -97035,17 +97035,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-13757"
 	},
 	{
-		"package": "grafana-[0-9]*",
-		"type_of_exploit": "cross-site-scripting",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-18624"
-	},
-	{
-		"package": "grafana-[0-9]*",
-		"type_of_exploit": "cross-site-scripting",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-18625"
-	},
-	{
-		"package": "grafana-[0-9]*",
+		"package": "grafana<6.0.0",
 		"type_of_exploit": "cross-site-scripting",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-18623"
 	},
@@ -99770,7 +99760,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-25626"
 	},
 	{
-		"package": "grafana-[0-9]*",
+		"package": "grafana<8.3.1",
 		"type_of_exploit": "signature-forgery",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-15216"
 	},
@@ -109658,21 +109648,6 @@
 		"package": "cyrus-imapd>=3.0<3.0.16",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-33582"
-	},
-	{
-		"package": "gst-plugins1-libav-[0-9]*",
-		"type_of_exploit": "denial-of-service",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-18778"
-	},
-	{
-		"package": "gst-plugins1-libav-[0-9]*",
-		"type_of_exploit": "denial-of-service",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-18776"
-	},
-	{
-		"package": "gst-plugins1-libav-[0-9]*",
-		"type_of_exploit": "denial-of-service",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-18775"
 	},
 	{
 		"package": "ffmpeg2-[0-9]*",
@@ -124275,7 +124250,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-46391"
 	},
 	{
-		"package": "assimp-[0-9]*",
+		"package": "assimp<5.4.0",
 		"type_of_exploit": "use-after-free",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-45748"
 	},
@@ -129688,5 +129663,30 @@
 		"package": "vim<9.1.0404",
 		"type_of_exploit": "buffer-overflow",
 		"url": "https://github.com/vim/vim/commit/67797191e039196128c69"
+	},
+	{
+		"package": "git-base<2.45.1",
+		"type_of_exploit": "execute-arbitrary-code",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-32002"
+	},
+	{
+		"package": "git-base<2.45.1",
+		"type_of_exploit": "execute-arbitrary-code",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-32004"
+	},
+	{
+		"package": "git-base<2.45.1",
+		"type_of_exploit": "insufficient-checks",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-32020"
+	},
+	{
+		"package": "git-base<2.45.1",
+		"type_of_exploit": "toctou",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-32021"
+	},
+	{
+		"package": "git-base<2.45.1",
+		"type_of_exploit": "execute-arbitrary-code",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-32465"
 	}
 ]

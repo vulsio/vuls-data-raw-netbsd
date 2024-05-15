@@ -129688,5 +129688,10 @@
 		"package": "git-base<2.45.1",
 		"type_of_exploit": "execute-arbitrary-code",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-32465"
+	},
+	{
+		"package": "dino<0.4.2",
+		"type_of_exploit": "information-disclosure",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-28686"
 	}
 ]

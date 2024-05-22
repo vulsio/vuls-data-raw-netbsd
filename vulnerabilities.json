@@ -129703,5 +129703,20 @@
 		"package": "ghostscript-agpl<10.03.1",
 		"type_of_exploit": "unknown",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-52722"
+	},
+	{
+		"package": "asterisk<18.23.1",
+		"type_of_exploit": "authentication-bypass",
+		"url": "https://github.com/asterisk/asterisk/security/advisories/GHSA-qqxj-v78h-hrf9"
+	},
+	{
+		"package": "asterisk>=20<20.8.1",
+		"type_of_exploit": "authentication-bypass",
+		"url": "https://github.com/asterisk/asterisk/security/advisories/GHSA-qqxj-v78h-hrf9"
+	},
+	{
+		"package": "asterisk>=21<21.3.1",
+		"type_of_exploit": "authentication-bypass",
+		"url": "https://github.com/asterisk/asterisk/security/advisories/GHSA-qqxj-v78h-hrf9"
 	}
 ]

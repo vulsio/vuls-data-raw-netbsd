@@ -129718,5 +129718,35 @@
 		"package": "asterisk>=21<21.3.1",
 		"type_of_exploit": "authentication-bypass",
 		"url": "https://github.com/asterisk/asterisk/security/advisories/GHSA-qqxj-v78h-hrf9"
+	},
+	{
+		"package": "keepassxc-[0-9]*",
+		"type_of_exploit": "sensitive-information-disclosure",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-33900"
+	},
+	{
+		"package": "keepassxc-[0-9]*",
+		"type_of_exploit": "sensitive-information-disclosure",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-33901"
+	},
+	{
+		"package": "py{27,37,38,39,310,311,312}-requests<2.32.0",
+		"type_of_exploit": "sensitive-information-disclosure",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-35195"
+	},
+	{
+		"package": "py{37,38,39,310,311,312}-mysql<1.1.0",
+		"type_of_exploit": "sql-injection",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-36039"
+	},
+	{
+		"package": "gstreamer-[0-9]*",
+		"type_of_exploit": "integer-overflow",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4453"
+	},
+	{
+		"package": "lighttpd-[0-9]*",
+		"type_of_exploit": "sensitive-information-disclosure",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-3708"
 	}
 ]

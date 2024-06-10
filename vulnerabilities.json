@@ -90330,7 +90330,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-11779"
 	},
 	{
-		"package": "grafana-[0-9]*",
+		"package": "grafana<6.2.0",
 		"type_of_exploit": "information-leak",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-15635"
 	},
@@ -129740,7 +129740,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-36039"
 	},
 	{
-		"package": "gstreamer-[0-9]*",
+		"package": "gst-plugins1-base<1.24.3",
 		"type_of_exploit": "integer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4453"
 	},
@@ -129748,5 +129748,45 @@
 		"package": "lighttpd-[0-9]*",
 		"type_of_exploit": "sensitive-information-disclosure",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-3708"
+	},
+	{
+		"package": "libarchive<3.7.4",
+		"type_of_exploit": "out-of-bounds-access",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-26256"
+	},
+	{
+		"package": "nginx<1.26.1",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-31079"
+	},
+	{
+		"package": "nginx<1.26.1",
+		"type_of_exploit": "information-disclosure",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-34161"
+	},
+	{
+		"package": "php>=8.1<8.1.29",
+		"type_of_exploit": "argument-injection",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4577"
+	},
+	{
+		"package": "php>=8.2<8.2.20",
+		"type_of_exploit": "argument-injection",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4577"
+	},
+	{
+		"package": "php>=8.3<8.3.8",
+		"type_of_exploit": "argument-injection",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4577"
+	},
+	{
+		"package": "vte<0.76.3",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-37535"
+	},
+	{
+		"package": "vte3<0.76.3",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-37535"
 	}
 ]

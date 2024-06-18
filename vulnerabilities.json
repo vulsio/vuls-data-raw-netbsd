@@ -129788,5 +129788,65 @@
 		"package": "vte3<0.76.3",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-37535"
+	},
+	{
+		"package": "libxml2<2.12.5",
+		"type_of_exploit": "use-after-free",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-25062"
+	},
+	{
+		"package": "libxml2<2.12.7",
+		"type_of_exploit": "buffer-overread",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-34459"
+	},
+	{
+		"package": "python38-[0-9]*",
+		"type_of_exploit": "race-condition",
+		"url": "https://github.com/python/cpython/issues/114572"
+	},
+	{
+		"package": "python39-[0-9]*",
+		"type_of_exploit": "race-condition",
+		"url": "https://github.com/python/cpython/issues/114572"
+	},
+	{
+		"package": "python310<3.10.4",
+		"type_of_exploit": "race-condition",
+		"url": "https://github.com/python/cpython/issues/114572"
+	},
+	{
+		"package": "python311<3.11.9",
+		"type_of_exploit": "race-condition",
+		"url": "https://github.com/python/cpython/issues/114572"
+	},
+	{
+		"package": "python312<3.12.3",
+		"type_of_exploit": "race-condition",
+		"url": "https://github.com/python/cpython/issues/114572"
+	},
+	{
+		"package": "python38-[0-9]*",
+		"type_of_exploit": "ip-range-classification",
+		"url": "https://github.com/python/cpython/issues/113171"
+	},
+	{
+		"package": "python39-[0-9]*",
+		"type_of_exploit": "ip-range-classification",
+		"url": "https://github.com/python/cpython/issues/113171"
+	},
+	{
+		"package": "python310-[0-9]*",
+		"type_of_exploit": "ip-range-classification",
+		"url": "https://github.com/python/cpython/issues/113171"
+	},
+	{
+		"package": "python311-[0-9]*",
+		"type_of_exploit": "ip-range-classification",
+		"url": "https://github.com/python/cpython/issues/113171"
+	},
+	{
+		"package": "python312<3.12.4",
+		"type_of_exploit": "ip-range-classification",
+		"url": "https://github.com/python/cpython/issues/113171"
 	}
 ]

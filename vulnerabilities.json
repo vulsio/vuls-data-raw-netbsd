@@ -129848,5 +129848,25 @@
 		"package": "python312<3.12.4",
 		"type_of_exploit": "ip-range-classification",
 		"url": "https://github.com/python/cpython/issues/113171"
+	},
+	{
+		"package": "emacs29<29.4",
+		"type_of_exploit": "remote-user-access",
+		"url": "https://list.orgmode.org/87sex5gdqc.fsf@localhost/"
+	},
+	{
+		"package": "emacs28-[0-9]*",
+		"type_of_exploit": "remote-user-access",
+		"url": "https://list.orgmode.org/87sex5gdqc.fsf@localhost/"
+	},
+	{
+		"package": "emacs27-[0-9]*",
+		"type_of_exploit": "remote-user-access",
+		"url": "https://list.orgmode.org/87sex5gdqc.fsf@localhost/"
+	},
+	{
+		"package": "emacs26-[0-9]*",
+		"type_of_exploit": "remote-user-access",
+		"url": "https://list.orgmode.org/87sex5gdqc.fsf@localhost/"
 	}
 ]

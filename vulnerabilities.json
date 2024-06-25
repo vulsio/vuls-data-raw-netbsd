@@ -129868,5 +129868,15 @@
 		"package": "emacs26-[0-9]*",
 		"type_of_exploit": "remote-user-access",
 		"url": "https://list.orgmode.org/87sex5gdqc.fsf@localhost/"
+	},
+	{
+		"package": "samba4<4.19.7",
+		"type_of_exploit": "memory-corruption",
+		"url": "https://www.openwall.com/lists/oss-security/2024/06/24/3"
+	},
+	{
+		"package": "samba4>=4.20<4.20.2",
+		"type_of_exploit": "memory-corruption",
+		"url": "https://www.openwall.com/lists/oss-security/2024/06/24/3"
 	}
 ]

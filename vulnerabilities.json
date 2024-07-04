@@ -129928,5 +129928,20 @@
 		"package": "apache<2.4.60",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-36387"
+	},
+	{
+		"package": "apache<2.4.61",
+		"type_of_exploit": "sensitive-information-disclosure",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-39884"
+	},
+	{
+		"package": "znc<1.9.1",
+		"type_of_exploit": "remote-code-execution",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-39844"
+	},
+	{
+		"package": "7-zip<24.01",
+		"type_of_exploit": "buffer-overflow",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-52168"
 	}
 ]

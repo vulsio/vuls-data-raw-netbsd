@@ -124970,17 +124970,17 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-42705"
 	},
 	{
-		"package": "asterisk<16.28.0",
+		"package": "asterisk>=16<16.29.1",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-37325"
 	},
 	{
-		"package": "asterisk>=17<18.14.0",
+		"package": "asterisk>=18<18.15.1",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-37325"
 	},
 	{
-		"package": "asterisk>=19<19.6.0",
+		"package": "asterisk>=19<19.7.1",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-37325"
 	},
@@ -129943,5 +129943,15 @@
 		"package": "7-zip<24.01",
 		"type_of_exploit": "buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-52168"
+	},
+	{
+		"package": "py{37,38,39,310,311,312}-django>=4<4.2.14",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-38875"
+	},
+	{
+		"package": "py{37,38,39,310,311,312}-django>=5<5.0.7",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-38875"
 	}
 ]

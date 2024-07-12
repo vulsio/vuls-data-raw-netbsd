@@ -129953,5 +129953,10 @@
 		"package": "py{37,38,39,310,311,312}-django>=5<5.0.7",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-38875"
+	},
+	{
+		"package": "exim<4.98",
+		"type_of_exploit": "smtp-smuggling-attack",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-51766"
 	}
 ]

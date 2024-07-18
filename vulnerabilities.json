@@ -129833,5 +129833,10 @@
 		"package": "exiv2<0.28.3",
 		"type_of_exploit": "out-of-bounds-read",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-39695"
+	},
+	{
+		"package": "apache<2.4.62",
+		"type_of_exploit": "sensitive-information-disclosure",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-40725"
 	}
 ]

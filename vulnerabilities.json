@@ -95170,7 +95170,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-1733"
 	},
 	{
-		"package": "ansible-[0-9]*",
+		"package": "ansible<2.9.7",
 		"type_of_exploit": "directory-traversal",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-1735"
 	},
@@ -95180,7 +95180,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-1736"
 	},
 	{
-		"package": "ansible-[0-9]*",
+		"package": "ansible<2.9.7",
 		"type_of_exploit": "code-injection",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-1738"
 	},
@@ -95195,7 +95195,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-1740"
 	},
 	{
-		"package": "ansible-[0-9]*",
+		"package": "ansible<2.9.7",
 		"type_of_exploit": "sensitive-information-disclosure",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-1753"
 	},
@@ -95440,7 +95440,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-10931"
 	},
 	{
-		"package": "ansible-[0-9]*",
+		"package": "ansible<2.9.7",
 		"type_of_exploit": "code-injection",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-10684"
 	},
@@ -106248,16 +106248,6 @@
 		"package": "wireshark<3.4.6",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-22222"
-	},
-	{
-		"package": "ansible-[0-9]*",
-		"type_of_exploit": "information-disclosure",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3532"
-	},
-	{
-		"package": "ansible-[0-9]*",
-		"type_of_exploit": "information-disclosure",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3533"
 	},
 	{
 		"package": "apache>=2.4.6<2.4.48",

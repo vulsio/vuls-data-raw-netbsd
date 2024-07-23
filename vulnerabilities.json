@@ -59810,7 +59810,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-8114"
 	},
 	{
-		"package": "dpkg-[0-9]*",
+		"package": "dpkg<1.18.24",
 		"type_of_exploit": "directory-traversal",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-8283"
 	},
@@ -108695,7 +108695,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-39358"
 	},
 	{
-		"package": "grilo-[0-9]*",
+		"package": "grilo<0.3.14",
 		"type_of_exploit": "improper-certificate-validation",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-39365"
 	},
@@ -129828,5 +129828,15 @@
 		"package": "apache<2.4.62",
 		"type_of_exploit": "sensitive-information-disclosure",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-40725"
+	},
+	{
+		"package": "mit-krb5<1.21.3",
+		"type_of_exploit": "truncated-token",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-37370"
+	},
+	{
+		"package": "mit-krb5<1.21.3",
+		"type_of_exploit": "invalid-memory-reads",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-37371"
 	}
 ]

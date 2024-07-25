@@ -97910,7 +97910,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-15389"
 	},
 	{
-		"package": "openssh-[0-9]*",
+		"package": "openssh<8.5",
 		"type_of_exploit": "man-in-the-middle",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-14145"
 	},

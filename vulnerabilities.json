@@ -129843,5 +129843,25 @@
 		"package": "libcurl-gnutls>8.6.0<8.9.0",
 		"type_of_exploit": "free-of-memory-not-on-heap",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-6197"
+	},
+	{
+		"package": "mysql-client-5.6.[0-9]*",
+		"type_of_exploit": "eol",
+		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
+	},
+	{
+		"package": "mysql-server-5.6.[0-9]*",
+		"type_of_exploit": "eol",
+		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
+	},
+	{
+		"package": "mysql-client-5.7.[0-9]*",
+		"type_of_exploit": "eol",
+		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
+	},
+	{
+		"package": "mysql-server-5.7.[0-9]*",
+		"type_of_exploit": "eol",
+		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
 	}
 ]

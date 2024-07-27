@@ -60455,54 +60455,24 @@
 		"url": "https://www.postgresql.org/about/news/1746/"
 	},
 	{
-		"package": "libreoffice-[0-9]*",
+		"package": "libreoffice<5.2.5",
 		"type_of_exploit": "heap-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2016-10327"
 	},
 	{
-		"package": "libreoffice5-bin-[0-9]*",
+		"package": "libreoffice5-bin<5.2.5",
 		"type_of_exploit": "heap-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2016-10327"
 	},
 	{
-		"package": "libreoffice-[0-9]*",
-		"type_of_exploit": "heap-overflow",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-7856"
-	},
-	{
-		"package": "libreoffice5-bin-[0-9]*",
-		"type_of_exploit": "heap-overflow",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-7856"
-	},
-	{
-		"package": "libreoffice-[0-9]*",
+		"package": "libreoffice<5.2.5",
 		"type_of_exploit": "heap-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-7870"
 	},
 	{
-		"package": "libreoffice5-bin-[0-9]*",
+		"package": "libreoffice5-bin<5.2.5",
 		"type_of_exploit": "heap-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-7870"
-	},
-	{
-		"package": "libreoffice-[0-9]*",
-		"type_of_exploit": "out-of-bounds-write",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-7882"
-	},
-	{
-		"package": "libreoffice5-bin-[0-9]*",
-		"type_of_exploit": "out-of-bounds-write",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-7882"
-	},
-	{
-		"package": "libreoffice-[0-9]*",
-		"type_of_exploit": "heap-overflow",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-8358"
-	},
-	{
-		"package": "libreoffice5-bin-[0-9]*",
-		"type_of_exploit": "heap-overflow",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-8358"
 	},
 	{
 		"package": "php{56,70,71}-owncloud>=9.0<9.058",
@@ -74650,7 +74620,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-18264"
 	},
 	{
-		"package": "libreoffice-[0-9]*",
+		"package": "libreoffice<5.4.7",
 		"type_of_exploit": "information-disclosure",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-10583"
 	},
@@ -77958,11 +77928,6 @@
 		"package": "py{34,35,36,37}-django>=2.0<2.0.8",
 		"type_of_exploit": "open-redirect",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-14574"
-	},
-	{
-		"package": "libreoffice-[0-9]*",
-		"type_of_exploit": "denial-of-service",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-14939"
 	},
 	{
 		"package": "php{56,70,71,72}-drupal>=7<7.56",
@@ -90730,7 +90695,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-12412"
 	},
 	{
-		"package": "libtomcrypt-[0-9]*",
+		"package": "libtomcrypt<1.18.2nb2",
 		"type_of_exploit": "out-of-bounds-read",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-17362"
 	},

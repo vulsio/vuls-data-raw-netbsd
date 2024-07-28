@@ -92965,7 +92965,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2015-8313"
 	},
 	{
-		"package": "libreoffice-[0-9]*",
+		"package": "libreoffice<6.4.4",
 		"type_of_exploit": "remote-file-view",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2012-5639"
 	},

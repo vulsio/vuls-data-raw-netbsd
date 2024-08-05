@@ -102815,7 +102815,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3156"
 	},
 	{
-		"package": "wolfssl-[0-9]*",
+		"package": "wolfssl<4.7.0",
 		"type_of_exploit": "improper-certificate-validation",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3336"
 	},
@@ -125645,7 +125645,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-40889"
 	},
 	{
-		"package": "zola-[0-9]*",
+		"package": "zola<0.18.0",
 		"type_of_exploit": "directory-traversal",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-40274"
 	},
@@ -129838,5 +129838,15 @@
 		"package": "curl<8.9.1",
 		"type_of_exploit": "out-of-bounds-read",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-7264"
+	},
+	{
+		"package": "vim<9.1.0647",
+		"type_of_exploit": "double-free",
+		"url": "https://github.com/vim/vim/security/advisories/GHSA-f9cr-gv85-hcr4"
+	},
+	{
+		"package": "vim<9.1.0648",
+		"type_of_exploit": "double-free",
+		"url": "https://github.com/vim/vim/security/advisories/GHSA-46pw-v7qw-xc2f"
 	}
 ]

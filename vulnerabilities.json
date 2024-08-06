@@ -111340,12 +111340,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-41771"
 	},
 	{
-		"package": "speex-[0-9]*",
-		"type_of_exploit": "denial-of-service",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-23904"
-	},
-	{
-		"package": "speex-[0-9]*",
+		"package": "speex<1.2.1",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-23903"
 	},
@@ -114050,12 +114045,12 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0562"
 	},
 	{
-		"package": "unzip-[0-9]*",
+		"package": "unzip<6.0nb10",
 		"type_of_exploit": "out-of-bounds-write",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0529"
 	},
 	{
-		"package": "unzip-[0-9]*",
+		"package": "unzip<6.0nb10",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0530"
 	},
@@ -129848,5 +129843,15 @@
 		"package": "vim<9.1.0648",
 		"type_of_exploit": "double-free",
 		"url": "https://github.com/vim/vim/security/advisories/GHSA-46pw-v7qw-xc2f"
+	},
+	{
+		"package": "py{37,38,39,310,311,312}-django>=4<4.2.15",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-41991"
+	},
+	{
+		"package": "py{37,38,39,310,311,312}-django>=5<5.0.8",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-41991"
 	}
 ]

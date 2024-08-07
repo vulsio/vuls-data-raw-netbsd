@@ -119825,122 +119825,122 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-30768"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "arbitrary-code-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41794"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "arbitrary-code-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41981"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "arbitrary-code-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43597"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "arbitrary-code-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43598"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41639"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41684"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41999"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43603"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "heap-based-buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41838"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "heap-based-buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43592"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "heap-based-buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43596"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "heap-buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43599"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "heap-buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43600"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "heap-buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43601"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "heap-buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43602"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "memory-corruption",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41837"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "null-pointer-dereference",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43593"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "null-pointer-dereference",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43594"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "null-pointer-dereference",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43595"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "out-of-bounds-read",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-36354"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "out-of-bounds-read",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-38143"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.4.5",
 		"type_of_exploit": "sensitive-information-disclosure",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41649"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "sensitive-information-disclosure",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41977"
 	},
 	{
-		"package": "openimageio-[0-9]*",
+		"package": "openimageio<2.5.0.0",
 		"type_of_exploit": "sensitive-information-disclosure",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41988"
 	},

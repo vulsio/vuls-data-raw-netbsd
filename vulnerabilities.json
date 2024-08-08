@@ -123895,7 +123895,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0496"
 	},
 	{
-		"package": "opusfile-[0-9]*",
+		"package": "opusfile<0.12nb3",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-47021"
 	},
@@ -127210,7 +127210,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-25358"
 	},
 	{
-		"package": "libde265-[0-9]*",
+		"package": "libde265<1.0.10",
 		"type_of_exploit": "buffer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-47664"
 	},

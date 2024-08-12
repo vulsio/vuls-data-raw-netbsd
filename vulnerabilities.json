@@ -129853,5 +129853,10 @@
 		"package": "py{37,38,39,310,311,312}-django>=5<5.0.8",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-41991"
+	},
+	{
+		"package": "php{56,74,80,81,82,83}-roundcube<1.6.8",
+		"type_of_exploit": "cross-site-scripting",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-42009"
 	}
 ]

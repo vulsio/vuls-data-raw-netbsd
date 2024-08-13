@@ -129858,5 +129858,10 @@
 		"package": "php{56,74,80,81,82,83}-roundcube<1.6.8",
 		"type_of_exploit": "cross-site-scripting",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-42009"
+	},
+	{
+		"package": "nodejs>=18<18.20.4",
+		"type_of_exploit": "code-execution",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-22020"
 	}
 ]

@@ -129888,5 +129888,35 @@
 		"package": "py{38,39,310,311,312}-WebOb<1.8.8",
 		"type_of_exploit": "open-redirect",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-42353"
+	},
+	{
+		"package": "vim<9.1.0689",
+		"type_of_exploit": "heap-buffer-overflow",
+		"url": "https://github.com/vim/vim/security/GHSA-v2x2-cjcg-f9jm"
+	},
+	{
+		"package": "python38-[0-9]*",
+		"type_of_exploit": "infinite-loop",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-8088"
+	},
+	{
+		"package": "python39-[0-9]*",
+		"type_of_exploit": "infinite-loop",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-8088"
+	},
+	{
+		"package": "python310-[0-9]*",
+		"type_of_exploit": "infinite-loop",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-8088"
+	},
+	{
+		"package": "python311-[0-9]*",
+		"type_of_exploit": "infinite-loop",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-8088"
+	},
+	{
+		"package": "python312-[0-9]*",
+		"type_of_exploit": "infinite-loop",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-8088"
 	}
 ]

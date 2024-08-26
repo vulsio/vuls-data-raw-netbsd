@@ -129918,5 +129918,10 @@
 		"package": "python312-[0-9]*",
 		"type_of_exploit": "infinite-loop",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-8088"
+	},
+	{
+		"package": "apr<1.7.5",
+		"type_of_exploit": "privilege-escalation",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49582"
 	}
 ]

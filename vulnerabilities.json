@@ -129892,7 +129892,7 @@
 	{
 		"package": "vim<9.1.0689",
 		"type_of_exploit": "heap-buffer-overflow",
-		"url": "https://github.com/vim/vim/security/GHSA-v2x2-cjcg-f9jm"
+		"url": "https://github.com/vim/vim/security/advisories/GHSA-v2x2-cjcg-f9jm"
 	},
 	{
 		"package": "python38-[0-9]*",
@@ -129923,5 +129923,10 @@
 		"package": "apr<1.7.5",
 		"type_of_exploit": "privilege-escalation",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49582"
+	},
+	{
+		"package": "vim<9.1.0697",
+		"type_of_exploit": "heap-buffer-overflow",
+		"url": "https://github.com/vim/vim/security/advisories/GHSA-4ghr-c62x-cqfh"
 	}
 ]

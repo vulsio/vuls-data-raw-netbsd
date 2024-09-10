@@ -25145,7 +25145,7 @@
 		"url": "http://downloads.digium.com/pub/security/AST-2011-001.html"
 	},
 	{
-		"package": "p5-Convert-UUlib<1.34",
+		"package": "p5-Convert-UUlib<1.4",
 		"type_of_exploit": "denial-of-service",
 		"url": "http://secunia.com/advisories/42998/"
 	},

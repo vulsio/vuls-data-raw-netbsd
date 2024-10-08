@@ -130073,5 +130073,20 @@
 		"package": "cups-base<2.4.10nb1",
 		"type_of_exploit": "remote-code-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-47177"
+	},
+	{
+		"package": "unbound<1.21.1",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-8508"
+	},
+	{
+		"package": "powerdns-recursor<4.9.9",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-25590"
+	},
+	{
+		"package": "libgsf<1.14.53",
+		"type_of_exploit": "integer-overflow",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-42415"
 	}
 ]

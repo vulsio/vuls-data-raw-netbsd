@@ -130088,5 +130088,10 @@
 		"package": "libgsf<1.14.53",
 		"type_of_exploit": "integer-overflow",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-42415"
+	},
+	{
+		"package": "python38-[0-9]*",
+		"type_of_exploit": "eol",
+		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
 	}
 ]

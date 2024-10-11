@@ -130093,5 +130093,15 @@
 		"package": "python38-[0-9]*",
 		"type_of_exploit": "eol",
 		"url": "http://ftp.NetBSD.org/pub/NetBSD/packages/vulns/eol-packages"
+	},
+	{
+		"package": "libarchive<3.7.5",
+		"type_of_exploit": "out-of-bounds-access",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-48957"
+	},
+	{
+		"package": "libarchive<3.7.5",
+		"type_of_exploit": "out-of-bounds-access",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-48958"
 	}
 ]

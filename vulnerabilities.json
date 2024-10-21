@@ -130103,5 +130103,10 @@
 		"package": "libarchive<3.7.5",
 		"type_of_exploit": "out-of-bounds-access",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-48958"
+	},
+	{
+		"package": "element-web<1.11.81",
+		"type_of_exploit": "expose-access-tokens",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-47771"
 	}
 ]

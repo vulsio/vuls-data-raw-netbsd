@@ -130108,5 +130108,20 @@
 		"package": "element-web<1.11.81",
 		"type_of_exploit": "expose-access-tokens",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-47771"
+	},
+	{
+		"package": "mpg123<1.32.8",
+		"type_of_exploit": "heap-buffer-overflow",
+		"url": "https://mpg123.org/cgi-bin/news.cgi#2024-10-26"
+	},
+	{
+		"package": "modular-xorg-server<21.1.14",
+		"type_of_exploit": "heap-buffer-overflow",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-9632"
+	},
+	{
+		"package": "modular-xorg-xwayland<24.1.4",
+		"type_of_exploit": "heap-buffer-overflow",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-9632"
 	}
 ]

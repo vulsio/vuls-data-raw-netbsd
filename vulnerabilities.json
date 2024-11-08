@@ -130128,5 +130128,10 @@
 		"package": "webkit-gtk<2.46.3",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-44244"
+	},
+	{
+		"package": "curl<8.11.0",
+		"type_of_exploit": "comparison-using-wrong-factors",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-9681"
 	}
 ]

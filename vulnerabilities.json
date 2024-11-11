@@ -130133,5 +130133,15 @@
 		"package": "curl<8.11.0",
 		"type_of_exploit": "comparison-using-wrong-factors",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-9681"
+	},
+	{
+		"package": "libsoup3<3.6.0",
+		"type_of_exploit": "request-smuggling",
+		"url": "https://gitlab.gnome.org/GNOME/libsoup/-/issues/377"
+	},
+	{
+		"package": "libsoup3<3.6.1",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://gitlab.gnome.org/GNOME/libsoup/-/issues/391"
 	}
 ]

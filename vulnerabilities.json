@@ -72420,12 +72420,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-7648"
 	},
 	{
-		"package": "nodejs>=8",
-		"type_of_exploit": "denial-of-service",
-		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-7651"
-	},
-	{
-		"package": "nodejs>=9",
+		"package": "nodejs>=8<11",
 		"type_of_exploit": "denial-of-service",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-7651"
 	},
@@ -124385,7 +124380,7 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43548"
 	},
 	{
-		"package": "nodejs>=18.18.12.1",
+		"package": "nodejs>=18<18.12.1",
 		"type_of_exploit": "arbitrary-command-injection",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43548"
 	},

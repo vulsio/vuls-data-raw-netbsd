@@ -125620,12 +125620,12 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-4504"
 	},
 	{
-		"package": "zbar-[0-9]*",
+		"package": "zbar<0.23.93",
 		"type_of_exploit": "out-of-bounds-write",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-40890"
 	},
 	{
-		"package": "zbar-[0-9]*",
+		"package": "zbar<0.23.93",
 		"type_of_exploit": "arbitrary-code-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-40889"
 	},

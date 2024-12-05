@@ -130178,5 +130178,15 @@
 		"package": "webkit-gtk<2.46.4",
 		"type_of_exploit": "remote-code-execution",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-44308"
+	},
+	{
+		"package": "py{38,39,310,311,312}-django>=4<4.2.17",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-53907"
+	},
+	{
+		"package": "py{38,39,310,311,312}-django>=5<5.1.4",
+		"type_of_exploit": "denial-of-service",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-53907"
 	}
 ]

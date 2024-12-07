@@ -86805,17 +86805,17 @@
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-12450"
 	},
 	{
-		"package": "gvfs>=1.29.4",
+		"package": "gvfs<1.41.3",
 		"type_of_exploit": "multiple-vulnerabilities",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-12448"
 	},
 	{
-		"package": "gvfs>=1.29.4",
+		"package": "gvfs<1.41.3",
 		"type_of_exploit": "insecure-file-permissions",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-12447"
 	},
 	{
-		"package": "gvfs>=1.29.4",
+		"package": "gvfs<1.41.3",
 		"type_of_exploit": "insecure-file-permissions",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-12449"
 	},

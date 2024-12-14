@@ -130193,5 +130193,10 @@
 		"package": "curl<8.11.1",
 		"type_of_exploit": "credential-leak",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-11053"
+	},
+	{
+		"package": "gstreamer-1.24.10",
+		"type_of_exploit": "multiple-vulnerabilities",
+		"url": "https://discourse.gstreamer.org/t/gstreamer-1-24-10-stable-bug-fix-release/3683"
 	}
 ]

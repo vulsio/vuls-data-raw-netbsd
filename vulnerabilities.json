@@ -130223,5 +130223,10 @@
 		"package": "webkit-gtk<2.46.5",
 		"type_of_exploit": "memory-corruption",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-54505"
+	},
+	{
+		"package": "vim<9.1.1003",
+		"type_of_exploit": "heap-buffer-overflow",
+		"url": "https://github.com/vim/vim/security/advisories/GHSA-5rgf-26wj-48v8"
 	}
 ]

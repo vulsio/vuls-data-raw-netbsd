@@ -130243,5 +130243,10 @@
 		"package": "git-base<2.48.1",
 		"type_of_exploit": "missing-url-sanitizing",
 		"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-50349"
+	},
+	{
+		"package": "pam-u2f<1.3.1",
+		"type_of_exploit": "authentication-bypass",
+		"url": "https://nvd.nist.gov/vuln/detail/CVE-2025-23013"
 	}
 ]
